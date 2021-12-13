@@ -1,4 +1,4 @@
-Hold down the right mouse button to use flythrough mode:
+To use flythrough mode, hold down the **right** mouse button **and**:
 
 + WASD to move around
 + QE for up and down
