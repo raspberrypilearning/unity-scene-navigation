@@ -1,11 +1,11 @@
 To use flythrough mode, hold down the **right** mouse button **and use**:
 
 + WASD to move around
-+ QE for up and down
++ QE لأعلى ولأسفل
 + Shift to go faster
-+ The mouse to rotate the camera
++ الماوس لتدوير الكاميرا
 
-Use the scroll wheel on your mouse to zoom in and out. Your trackpad may also have a scroll motion.
+Use the scroll wheel on your mouse to zoom in and out. قد تحتوي لوحة التتبع أيضًا على حركة تمرير.
 
 To move the scene around, hold the <kbd>ALT</kbd> key and the middle mouse button and then drag to move. You can also use the arrow keys to move around.
 
