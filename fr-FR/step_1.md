@@ -1,17 +1,17 @@
-To use flythrough mode, hold down the **right** mouse button **and use**:
+Pour utiliser le mode survol, maintiens enfoncé le bouton **droit** de la souris **et utilise** :
 
-+ WASD to move around
-+ QE for up and down
-+ Shift to go faster
-+ The mouse to rotate the camera
++ WASD pour se déplacer (clavier QWERTY)
++ QE pour monter et descendre
++ Maj pour aller plus vite
++ La souris pour faire pivoter la caméra
 
-Use the scroll wheel on your mouse to zoom in and out. Your trackpad may also have a scroll motion.
+Utilise la molette de défilement de ta souris pour zoomer et dézoomer. Ton trackpad peut également avoir un mouvement de défilement.
 
-To move the scene around, hold the <kbd>ALT</kbd> key and the middle mouse button and then drag to move. You can also use the arrow keys to move around.
+Pour déplacer la scène, maintiens la touche <kbd>ALT</kbd> et le bouton central de la souris enfoncés, puis fais glisser pour déplacer. Tu peux également utiliser les touches fléchées pour te déplacer.
 
-To focus on an object, click on the GameObject in the Scene view and then click <kbd>F</kbd>.
+Pour centrer la vue sur un objet, clique sur le GameObject dans la vue Scene, puis clique sur <kbd>F</kbd>.
 
-You can also click on an object in the Hierarchy window and then click <kbd>Shift</kbd>+<kbd>F</kbd> to focus on that GameObject in the Scene view.
+Tu peux également cliquer sur un objet dans la fenêtre Hierarchy, puis cliquer sur <kbd>Maj</kbd>+<kbd>F</kbd> pour centrer la vue sur ce GameObject dans la vue Scene.
 
-**Tip:** If you get lost, click on your Player in the Hierarchy window and then <kbd>Shift</kbd>+<kbd>F</kbd> to focus on the Player. Then you can use the scroll wheel to zoom out.
+**Astuce :** Si tu te perds, clique sur ton Joueur dans la fenêtre Hierarchy, puis <kbd>Maj</kbd>+<kbd>F</kbd> pour centrer la vue sur le Joueur. Ensuite, tu peux utiliser la molette de défilement pour effectuer un zoom arrière.
 
