@@ -1,17 +1,17 @@
-To use flythrough mode, hold down the **right** mouse button **and use**:
+لاستخدام وضع الطيران في الأرجاء، امسك **زر الفأرة الأيمن** **واستخدم**:
 
-+ WASD to move around
++ WASD للتحرك في الأرجاء
 + QE لأعلى ولأسفل
-+ Shift to go faster
++ Shift لتصبح أسرع
 + الماوس لتدوير الكاميرا
 
-Use the scroll wheel on your mouse to zoom in and out. قد تحتوي لوحة التتبع أيضًا على حركة تمرير.
+استخدم عجلة الفأرة للتكبير والتصغير. قد تحتوي لوحة التتبع أيضًا على حركة تمرير.
 
-To move the scene around, hold the <kbd>ALT</kbd> key and the middle mouse button and then drag to move. You can also use the arrow keys to move around.
+لتحريك المشهد في الأرجاء ، امسك مفتاح <kbd>ALT</kbd> وزر الفأرة الأوسط ثم اسحب للتحرك. يمكنك أيضا استخدام مفاتيح الأسهم للتنقل.
 
-To focus on an object, click on the GameObject in the Scene view and then click <kbd>F</kbd>.
+للتركيز على شيء، انقر فوق كائن شيء لعبة في عرض المشهد ثم انقر فوق <kbd>F</kbd>.
 
-You can also click on an object in the Hierarchy window and then click <kbd>Shift</kbd>+<kbd>F</kbd> to focus on that GameObject in the Scene view.
+يمكنك أيضا النقر فوق شيء في نافذة التسلسل الهرمي ثم النقر فوق <kbd>Shift</kbd>+<kbd>F</kbd> للتركيز على شيء لعبة في عرض المشهد.
 
-**Tip:** If you get lost, click on your Player in the Hierarchy window and then <kbd>Shift</kbd>+<kbd>F</kbd> to focus on the Player. Then you can use the scroll wheel to zoom out.
+**نصيحة:** إذا تهت، انقر فوق لاعبك في التدرج الهرمي ثم <kbd>Shift</kbd>+<kbd>F</kbd> للتركيز على اللاعب. ثم يمكنك استخدام عجلة الفأرة للتبعيد.
 
