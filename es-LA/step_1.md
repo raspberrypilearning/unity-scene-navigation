@@ -1,17 +1,17 @@
-To use flythrough mode, hold down the **right** mouse button **and use**:
+Para usar el modo flythrough (volar a través de), mantén presionado el botón **derecho** del ratón **y usa lo siguiente**:
 
-+ WASD to move around
-+ QE for up and down
-+ Shift to go faster
-+ The mouse to rotate the camera
++ Las teclas WASD para moverte
++ Las teclas QE para ir hacia arriba y hacia abajo
++ La tecla Shift para ir más rápido
++ El ratón para girar la cámara
 
-Use the scroll wheel on your mouse to zoom in and out. Your trackpad may also have a scroll motion.
+Usa la rueda de desplazamiento de tu ratón para acercarte y alejarte. Tu trackpad (panel táctil) también podría tener un movimiento de desplazamiento.
 
-To move the scene around, hold the <kbd>ALT</kbd> key and the middle mouse button and then drag to move. You can also use the arrow keys to move around.
+Para mover la escena, mantén presionada la tecla <kbd>ALT</kbd> y el botón central del ratón y luego arrástra para moverla. También puedes utilizar las teclas de flecha para moverte.
 
-To focus on an object, click on the GameObject in the Scene view and then click <kbd>F</kbd>.
+Para enfocarte en un solo objeto, haz clic en GameObject en la Scene view (Vista de escena) y luego haz clic en <kbd>F</kbd>.
 
-You can also click on an object in the Hierarchy window and then click <kbd>Shift</kbd>+<kbd>F</kbd> to focus on that GameObject in the Scene view.
+También puedes hacer clic en un objeto en la ventana Hierarchy (Jerarquía) y luego hacer clic en <kbd>Shift</kbd>+<kbd>F</kbd> para enfocarte en ese GameObject en la Scene view (Vista de escena).
 
-**Tip:** If you get lost, click on your Player in the Hierarchy window and then <kbd>Shift</kbd>+<kbd>F</kbd> to focus on the Player. Then you can use the scroll wheel to zoom out.
+**Sugerencia:** Si te pierdes, haz clic en tu personaje de jugador en la ventana Hierarchy y luego <kbd>Shift</kbd>+<kbd>F</kbd> para enfocarte en este personaje. Luego puedes usar la rueda de desplazamiento para alejarte.
 
