@@ -13,4 +13,4 @@ Para enfocarte en un solo objeto, haz clic en GameObject en la Scene view (Vista
 
 También puedes hacer clic en un objeto en la ventana Hierarchy (Jerarquía) y luego hacer clic en <kbd>Shift</kbd>+<kbd>F</kbd> para enfocarte en ese GameObject en la Scene view (Vista de escena).
 
-**Sugerencia:** Si te pierdes, haz clic en tu personaje de jugador en la ventana Hierarchy y luego <kbd>Shift</kbd>+<kbd>F</kbd> para enfocarte en este personaje. Luego puedes usar la rueda de desplazamiento para alejarte.
+**Sugerencia:** Si te pierdes, haz clic en tu personaje de jugador en la ventana Hierarchy y luego <kbd>Shift</kbd>+<kbd>F</kbd> para enfocarte en este personaje. Luego puedes usar la rueda de desplazamiento para alejarte. 
